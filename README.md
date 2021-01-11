@@ -10,8 +10,7 @@
 the main goal of this homework is to analyze the Wikipedia's articles network by applying graph algorithms.
 The task was divided into 6 questions that we can summarize as follows:
 1) __RQ1__: building the graph and providing its basic informations
-
-2)__RQ2 to RQ6__: important functions and algorithms
+2) __RQ2 to RQ6__: important functions and algorithms
 
 ## Repo structure
 ` MAIN.ipynb: `
