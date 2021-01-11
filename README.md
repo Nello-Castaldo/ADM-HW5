@@ -2,8 +2,8 @@
 [Homework 5](https://github.com/CriMenghini/ADM/tree/master/2020/Homework_5)
 
 ## Group's Members:
-* Faranak Alikhah
-* Francesca Casarano
+* Nello Castaldo
+* Giovanni Giunta 
 * Dario Baraghini 
 - - - - 
 ## Task
