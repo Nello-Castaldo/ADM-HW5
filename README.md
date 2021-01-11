@@ -1,5 +1,4 @@
 # ADM-HW5 - Explore Wikipedia's hyperlinks network
-[
 [Homework 5](https://github.com/CriMenghini/ADM/tree/master/2020/Homework_5)
 
 ## Group's Members:
